@@ -1,0 +1,1 @@
+Esri中国2013年开发者大会“扩展ArcGIS for Server 10.1服务技术探究”讲座中示例代码。InterpolationClient为SOE客户端调用示例代码该代码基于visual studio2010&dojo1.8&arcgis webapi for javascript 3.3 版构建该示例代码是用来演示如何采用javascript api发出SOE和gp 服务访问请求，并对请求结果进行渲染，可视化等操作。
